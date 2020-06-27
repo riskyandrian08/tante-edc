@@ -1,0 +1,2 @@
+rootProject.name='Tante-EDC'
+include ':app'
